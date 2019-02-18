@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg865"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="csv.svg"
+   inkscape:export-filename="C:\Users\Aleksei\Desktop\Icon128.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs859">
+    <linearGradient
+       id="linearGradient3928-8-2">
+      <stop
+         id="stop3930-2-9"
+         style="stop-color:#7c7c7c"
+         offset="0" />
+      <stop
+         id="stop3932-0-4"
+         style="stop-color:#e6e3e3"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="84.850521"
+     inkscape:cy="10.213747"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13334)">
+    <path
+       id="path3436"
+       d="m 5.328706,265.56449 v 4.25886 6.96491 18.30171 h 23.726019 v -21.14672 l -8.448045,-8.37898 z"
+       sodipodi:nodetypes="cccccccc"
+       style="color:#000000;fill:#e9e9e9;fill-opacity:1;stroke:#000000;stroke-width:1.05448973;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:117.54000092"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect3440"
+       style="color:#000000;fill:#228b22;stroke-width:0.52724487"
+       rx="0.52724487"
+       ry="0.52724487"
+       height="6.3269386"
+       width="16.344591"
+       y="271.36417"
+       x="0.5835042" />
+    <path
+       id="path3442"
+       d="m 29.054725,274.0004 -8.430118,-8.43011 v 8.43011 z"
+       style="color:#000000;fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1.05448973;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:117.54000092"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.44146919px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13603672"
+       x="3.4431939"
+       y="276.54959"
+       id="text1441"><tspan
+         sodipodi:role="line"
+         id="tspan1439"
+         x="3.4431939"
+         y="276.54959"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Bold';fill:#ffffff;stroke-width:0.13603672">CSV</tspan></text>
+  </g>
+</svg>
